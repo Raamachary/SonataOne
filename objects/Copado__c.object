@@ -163,6 +163,7 @@
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
     <fields>
+	
         <fullName>Email__c</fullName>
         <externalId>false</externalId>
         <label>Email</label>
