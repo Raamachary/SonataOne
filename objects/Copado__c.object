@@ -192,4 +192,13 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+	<fullName>Test_Field_4__c</fullName>
+        <externalId>false</externalId>
+        <label>Test Field 4</label>
+        <length>100</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </field
 </CustomObject>
